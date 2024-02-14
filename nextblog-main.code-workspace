@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "nextblog",
+			"path": "../nextblog"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nextblog"
+	}
+}
